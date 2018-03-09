@@ -1,0 +1,27 @@
+#top-bar {
+    position: relative;
+    border-bottom: 1px solid #EEE;
+    height: 45px;
+    line-height: 44px;
+    font-size: 13px;
+    background-color: #333;
+}
+
+.top-links li > a {
+    display: block;
+    padding: 0 12px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    height: 44px;
+    color: #FFF;
+}
+
+.top-links li > a:hover {
+    background-color: #EEE;
+    color: #333;
+}
+
+#top-social li a {
+		color: #FFF;
+}
